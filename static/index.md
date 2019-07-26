@@ -1,41 +1,146 @@
-![go-build-web logo](/img/logo.png)
+PERSONAL INFORMATION
+====================
+![go-build-web logo](/img/me.png)
 
-go-build-web
-======
-**go-build-web** is a simple powerful (enough) tools to build a website using [Markdown], JSON and [Golang template]. You don't need any special tools or database, you don't need to learn any technology. You can use the existing HTML knowledge you have and build your website. Unlike most of the static website generator, go-build-web does not pack the resources since HTTP2 has a better approach for loading and cashing resource.
+**Hamed Abdollahpour**
 
-Install/Run
-======
-There's no setup, just download the latest version from `releases`, extract the zip file and run `go-build-web-<OS>`. Your website is ready [http://localhost:3000](http://localhost:3000)
+Hermannstr, 12051 Berlin (Germany)  
++4917647309649  
+ha.hamed@gmail.com  
+https://www.linkedin.com/in/hamedabdollahpour/  
+https://stackoverflow.com/users/1079877/user1079877  
+Skype abdollahpour@live.com  
+Sex Male | Date of birth 02/09/1985 | Nationality Iranian  
 
-To generate the static HTML files, run `./go-build-web-<OS> clean build`. You HTML files are ready in `build` folder.
+WORK EXPERIENCE
+===============
 
-Get started
-===========
-To create a new page, you need to create at least one `index.html` file in **static** folder. This file can be a simple HTML file or uses the [Golang template] tags to make it more functional. Using the template syntax you can:
+15/02/2019–Present
+------------------
 
-* Build layout using `layout.html` file.
-* Render markdown using `MarkdownFile` function.
-* Load data from an external JSON file, `index.json`. You can use this file to load some classified metadata using in your pages.
+Evertrace GmbH, Berlin (Germany)
 
-To create a new folder, you just need to make a folder with the same name and put `index.html` inside.
+* Develop the core system of Evertrace track and trace platform
+* Design and implement infostructure using micro-services
+* Combines software development and information technology operations to shorten the systems development life cycle (DevOps)
 
-For example, if you want to make `http://foo.com/page1/` you need to make `static/page1/index.html`. You must remember in go-build-web all the pages finish by `/`.
+01/09/2013–01/09/2018
+---------------------
+### Senior Software Engineer
+**Web Presence in China**  
+SOHO – XianDaiCheng 88 JianGuoLu Building A Suite 3209 Chaoyang District, 100022  
+Beijing (China)  
+http://wpic.co
+Distributed web crawler and data mining tools (Discripto), Design and implement a lead managementsystem and integration with other tools (Baidu, Salesforce), Service integrations (between Chinese local services and int
 
-For more information check the list of samples:
+* 3 months part-time as a senior developer
+* 3 years full time as a senior developer
+* 1 year full time as CTO at the Beijing office
+* 9 months remotely from Shenzhen
 
-* Build CV: https://github.com/abdollahpour/go-build-web-sample-cv
+Projects had a huge impact and the company had become 8 times larger in the last 4 years.
 
-Build the static files
-==========
-Simply run `go-build-web-<OS> clean build` and you website generetes whitin **build** directory.
+01/03/2010–01/09/2011
+-------------------
+### Software Developer
+**K. N. Toosi University**
+K. N. Toosi University of Technology, Tehran (Iran)
 
-Doing more
-====
-By default application run on port **3000** You can change the port using **PORT** environment variable. For example in bash:
+* Implement a pure Java SIP phone and integrate with Asterisk PBX (trixbox)
+* J2ME application for PBX integration
 
-    PORT=8000 ./go-build-web-<OS>
+01/09/2008–01/03/2010
+-------------------
+### Part-time Application Developer
+**LG Electronics, Tehran (Iran)**
+Working as project-based:
 
-[Markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[Golang template]: https://golang.org/pkg/text/template/
-[nginx]: https://www.nginx.com/blog/nginx-1-13-9-http2-server-push/
+* Implement a complete Bidi-languages (Persian, Arabic) UI framework for JavaME phones (On
+canvas)
+* First Persian/English dictionary for JavaME phones
+* First Full Persian calendar for JavaME phones
+
+PERSONAL SKILLS
+===============
+
+Mother tongue(s)
+---------------
+Persian
+
+Foreign language(s)
+-------------------
+TODO
+
+Communication skills
+--------------------
+Speaking in public, to groups, or via electronic media (Just technical topics that I'm familiar with)
+
+Organisational / managerial skills
+----------------------------------
+
+* Quite familiar with Version control systems and standard workflows. No matter I work alone or on a team, I always follow the teamwork style rules and methods. It helps me to be part of any production team in a very short time.
+* I'm familiar with Agile frameworks like Scrum
+* I have experience of small team management (5 developers) for about a year.
+
+Job-related skills
+------------------
+
+* Programming (expert): JavaEE, JavaScript, NodeJS
+* Programming (familiar): Matlab, PHP, Arduino, C++
+* Programming paradigm: Object Oriented Programming (OOP), Functional Programming (FP)
+* Architecture: Microservices
+* DevOps: Jenkins, Docker, JMeter
+* Database+ORM: MongoDB, MySQL, Infinispan, HBase, Hibernate
+* Front-end: HTML5, React, Mithril, Bootstrap
+* Application server/Deployment: Nginx, Wildfly (JBoss), Undertow
+* Operating system: Linux, Mac
+* Graphic: Photoshop, Gimp, Inkscape (Vector)
+* Mobile: Android, ReactNative, Cordova
+* Version control: Git, Github, Bitbucket
+* IoT: Arduino, Eagle (PCB), Freecad (3D)
+* Other: Blockchain, Kafka, Hadoop
+
+Digital skills
+--------------
+
+TODO
+
+Other skills
+------------
+
+* PCB design: Design PCB for digital circuit and I have a pretty good understanding of the design
+concepts (Eagle).
+* IOT design: Modern MCUs + WiFi + Bluetooth modules
+* 3D design: Model, mold and enclosure.
+* Vector graphic design (SVG)
+* Bitcoin and Blockchain related technologies.
+
+Driving licence
+--------------
+
+B
+
+ADDITIONAL INFORMATION
+======================
+
+Honours and awards
+------------------
+
+* Iran's National Elites Foundation, Sep 2009, Cultural Council of Iran, Iran
+* 1st winner International Digital Media Fair, Sep 2009, Ministry of Culture, Iran
+* Khwarizmi Young Award, May 2009, Ministry of Science
+* 3rd winner International Digital Media Fair, Apr 2007, Ministry of Culture
+
+Projects
+--------
+
+* BitcoinBox: Distributed Bitcoin POS system using Blockchain network (Server, Firmware &Hardware), 2018
+▪ PayPalBox: PayPal Mobile payment integrated with the Payment device, 2018 (Distributed server & firmware), 2018
+▪ ePrism: Low-cost but powerful IoT developer kit (1W Audio, 2.4"full-color touch, Bluetooth, WiFi, Touch button, firmware update using cable & OTA), 2018
+▪ Discripto: Distributed scraper engine, 2016
+▪ CMF: Complete UI framework for J2ME devices with over 100 applications and 5 million users, 2009
+
+Publications
+------------
+
+* Technical Capabilities of Discripto: the Distributed Scripting Engine, Mar 2017, TOPHPC
