@@ -69,7 +69,12 @@ Persian
 
 Foreign language(s)
 -------------------
-TODO
+|           | English | Chinese | German | Persian |
+| --------- |:-------:| -------:| ------:| -------:|
+| Reading   |   C1    |   B1    |   A1   | Native  |
+| Writing   |   C1    |   A2    |   A1   | Native  |
+| Speaking  |   C1    |   B1    |   A1   | Native  |
+| Listening |   C1    |   B1    |   A1   | Native  |
 
 Communication skills
 --------------------
@@ -99,11 +104,6 @@ Job-related skills
 * Version control: Git, Github, Bitbucket
 * IoT: Arduino, Eagle (PCB), Freecad (3D)
 * Other: Blockchain, Kafka, Hadoop
-
-Digital skills
---------------
-
-TODO
 
 Other skills
 ------------
