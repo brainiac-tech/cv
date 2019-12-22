@@ -3,6 +3,7 @@ RUN apk add git
 WORKDIR $GOPATH/src/app
 RUN go get -u github.com/gorilla/mux
 RUN go get -u gitlab.com/golang-commonmark/markdown
+RUN go get -u gopkg.in/russross/blackfriday.v2
 ADD . .
 RUN go run main.go clean build
 RUN go get -u github.com/m3ng9i/ran
